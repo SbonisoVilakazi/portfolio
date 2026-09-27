@@ -1,22 +1,17 @@
-# Jaden Somkhathy — Portfolio
+# Sboniso Vilakazi — Portfolio
 
-Personal portfolio website for Jaden Somkhathy (Sboniso Vilakazi), a
-software developer based in Durban, South Africa.
+Personal portfolio website for Sboniso Vilakazi, a software developer based in Durban, South Africa.
 
-Live site: https://jaden-somkhathy.github.io/portfolio/
+Live site: https://sbonisovilakazi.github.io/portfolio/
 
 ## Structure
 
-- `index.html` / `style.css` — home page
-- `gallery.html` / `gallery.css` / `gallery.js` — featured work, with
-  a certificates folder viewer
-- `project-*.html` — individual project detail pages
-- `script.js` — shared site behavior (nav, scroll reveal, animated
-  background)
-- `certificates/` — certificate PDFs shown in the Achievements folder
+* `index.html` / `style.css` — home page
+* `gallery.html` / `gallery.css` / `gallery.js` — featured work, with a certificates folder viewer
+* `project-*.html` — individual project detail pages
+* `script.js` — shared site behavior (nav, scroll reveal, animated background)
+* `certificates/` — certificate PDFs shown in the Achievements folder
 
 ## License
 
-All rights reserved. This code and design may not be copied, reused,
-or redistributed without permission and credit. See
-[LICENSE.md](./LICENSE.md) for full terms.
+All rights reserved. This code and design may not be copied, reused, or redistributed without permission and credit. See `LICENSE.md` for full terms.
